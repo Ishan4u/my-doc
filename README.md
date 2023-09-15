@@ -1,3 +1,6 @@
 # my-doc
 my img
-https://github.com/Ishan4u/my-doc/assets/111623376/b138fe00-c887-4110-8fd6-15231eaccb8a
+https://github.com/Ishan4u/my-doc/assets/111623376/b138fe00-c887-4110-8fd6-15231eaccb8a   
+resize:  
+https://github.com/Ishan4u/my-doc/assets/111623376/d8a5beba-2c17-41fb-85c0-c6406e50b549
+
